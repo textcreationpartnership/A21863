@@ -1,0 +1,137 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation commaunding the execution of an acte of Parliament, prouided for auoiding of dangerous annoyances about cities, burroughes and townes within the realme</title>
+            <title>Proclamations. 1590-06-06</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21863</idno>
+            <idno type="STC">STC 8195</idno>
+            <idno type="STC">ESTC S115430</idno>
+            <idno type="EEBO-CITATION">99850649</idno>
+            <idno type="PROQUEST">99850649</idno>
+            <idno type="VID">15870</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15870)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:59)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation commaunding the execution of an acte of Parliament, prouided for auoiding of dangerous annoyances about cities, burroughes and townes within the realme</title>
+                  <title>Proclamations. 1590-06-06</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1590.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Against fouling water and land in and about London with dung and offal.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Water --  Pollution --  England --  Early works to 1800.</term>
+               <term>Sewage disposal in rivers, lakes, etc. --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15870:1"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <head type="sub">A Proclamation commaunding the execution of an Acte of Parliament prouided for auoiding of dangerous annoyances about Cities, Burroughes and Townes within the Realme.</head>
+            <p>THe Queenes Maieſtie vnderſtanding, that by a Statute made in the twelfth yeere of the reigne of King Richard the ſecond, it was enacted that, for that ſo much doung, and other filth of the iſſues and intralles, aſwell of beaſtes killed, as of other corruptions, were caſt and put in Ditches, Riuers, and other waters, and alſo within many other places with<g ref="char:EOLhyphen"/>in about, and nigh vnto diuers Cities, Burroughes and Townes of the Realme, and the Suburbes of them, that the Ayre there was greatly corrupt and infect, and many ma<g ref="char:EOLhyphen"/>ladies, and other intollerable diſeaſes did daily happen, aſ well to the inhabitants, and al<g ref="char:EOLhyphen"/>ſo dwellers in the ſame Cities, Burroughes, Townes and Suburbes, as to other thither repairing and paſſing, to the great annoyance, dammage, and perill of the inhabitants, dwellers, repairers, and paſſers aforeſaid: It was accorded and aſſented, that Proclamation ſhould be made aſwell in the Citie of London, as in other Cities, Burroughes and Townes, through the Realme of England, where it ſhould be needefull, aſ well within the Franchiſes as without: That all they which did caſt and put annoyances, doung, iſſues, in<g ref="char:EOLhyphen"/>tralles, and other ordure in Ditches, Riuers, Waters, and other places aforeſaid, ſhould cauſe them vtterly to be remoo<g ref="char:EOLhyphen"/>ued, auoyded and caried away, betwixt that and the feaſt of S. Michael then next enſuing, after the end of the ſaid Par<g ref="char:EOLhyphen"/>liament: euery one vpon paine to looſe and to forfeite vnto the ſaid King xx.li. And that the Maiors and Bailiffes of eue<g ref="char:EOLhyphen"/>ry ſuch Citie, Burrough or Towne, and alſo the Bailiffes of the Franchiſes ſhould compel the ſame to be done vpon like paine, And that if any did feele him ſelfe grieued, that it were not done in the manner aforeſaide, and would there vpon complaine him to the Chauncellor, after the ſaid feaſt of S. Michael, he ſhould have a writte to make him (of whom he would ſo complaine) to come in the Chauncerie, there to ſhe we why the ſaid paine ſhould not be leuied of him. And more<g ref="char:EOLhyphen"/>ouer, that Proclamation ſhould be made aſwel in the Citie of London, as in other Cittes, Burroughes and Townes, as afore: That none of what condition ſo euer he were, ſhould doe to be ſet, or throwen from thenceforth, any ſuch annoy<g ref="char:EOLhyphen"/>ances, iſſues, doung, intralles, nor none other ordure in the Ditches, Riuers, Waters, and other places aforeſaid, And if any did, he ſhould be called by writ before the Chauncellor, at his ſute that would complaine: and if he were found guiltie, he ſhould be puniſhed after the diſcretion of the Chauncellor, as by the ſame Acte appeareth: And finding how neceſſary it ſhall be to haue the ſaid Acte duely executed within the Cities of London, and Weſtminſter, and the Suburbes thereof, and other places neere thereunto adioyning, and foreſeeing what benefite may growe by the due execution thereof in the places aforeſaid, aſwell to the Inhabitants of theſe her Highnes Cities of London, and Weſtminſter, as alſo to al Noble<g ref="char:EOLunhyphen"/>men, Gentlemen and others, which for ſundry reſpects haue occaſion to remaine in, or to repaire vnto the ſame Cities, and the Suburbes thereof. And for the auoiding of ſuch dangerous infections, as otherwiſe by meanes of theſe noyſome annoyances might growe within the ſaid Cities, and the Suburbes thereof, doth hereby will the ſaid Acte to be proclai<g ref="char:EOLhyphen"/>med within the Cities of London, and Weſtminſter, and the Counties thereunto adioyning. And doeth hereby ſignifie, declare and publiſh, her Highnes good will and pleaſure to be, that the ſaid Statute ſhall be from hencefoorth put in due execution, according to the tenor, effect and true meaning of the ſame, within the ſame Cities, and the Suburbes there<g ref="char:EOLhyphen"/>of, and in all other places neere adioyning to the ſame: And doeth hereby ſtraightly charge and commaund all and euery perſon and perſons, to abſteine and forbeare to caſt or put foorth any intralles of beaſtes, or other filthie or noyſome thing whatſoeuer, into any Ditch, Riuer or Water, or into any Fielde or high way, in or neere vnto the ſaid Cities of London, and Weſtminſter, or the Suburbes of them, or of either of them. And her Highnes doeth further charge and ſtraightly commaund, that all ſuch noyſome corrupt infections and filthy ſubſtance, as haue beene heretofore throwen or caſt forth into any place or places, in or neere vnto the ſame Cities, or either of them, or the Suburbes of the ſame, by any perſon or perſons whatſoeuer, whereby the Ayre is or may be corrupted or infected, ſhall before the xxv. day of Auguſt next com<g ref="char:EOLhyphen"/>ming, be remoued and caried away, vpon paine of the puniſhment and penaltie conteined in the ſaid Statute. And her Maieſtie doeth hereby ſtraightly charge, commaund and require all and ſingular Iuſtices of Peace, Maiors Sheriffes, Bailiffes, Conſtables, and all other Officers and Miniſters, to whom it ſhal apperteine, that they and euery of them, doe carefully and duely ſee to the execution of the ſaid Act, and of this her Maieſties good will and pleaſure, in this her High<g ref="char:EOLhyphen"/>nes Proclamation, publiſhed and declared vpon paine of her Highnes indignation and diſpleaſure.</p>
+            <closer>
+               <dateline>Giuen at our Man<g ref="char:EOLhyphen"/>nor of Greenewiche <date>the ſixt day of Iune, in the xxxii. yeere of our reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London, by the Deputies of Chriſtopher Barker. Printer to the Queenes moſt excellent Maieſtie. 1590.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
